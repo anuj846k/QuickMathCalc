@@ -11,4 +11,4 @@ Welcome to Quick Math Calculator! This simple calculator is designed to perform 
 - Evaluate (=)
 
 ## Live Project
-Explore the live calculator and try it out: [Live Project]()
+Explore the live calculator and try it out: [Live Project](https://anuj846k.github.io/QuickMathCalc/)
